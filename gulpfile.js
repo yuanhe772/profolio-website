@@ -10,4 +10,14 @@ const sync    = require('./build/browsersync');
   task(gulp);
 });
 
-gulp.task('build', ['sass', 'scripts', 'images', 'jekyll-build']);
+gulp.task('watch', function() {
+   // Watch .js files
+  gulp.watch('src/js/*.js', ['scripts']);
+   // Watch .scss files
+  gulp.watch('src/scss/*.scss', ['sass']);
+   // Watch image files
+  gulp.watch('src/images/**/*', ['images']);
+ });
+
+
+gulp.task('build', ['sass', 'scripts', 'images', 'jekyll-build', 'watch']);
