@@ -1,6 +1,5 @@
 # Personal Website yuanhe.fun
-
-## Credit to bchiang7.github.io
+Credit to bchiang7.github.io
 
 ## Dependencies
 
