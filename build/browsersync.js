@@ -31,7 +31,9 @@ module.exports = gulp => {
       server: {
         baseDir: '_site'
       },
+      // This ghostmode will enable the browser sync
       ghostMode: false,
+      // This notify will enable popping out the "Browsersync: connected" badge
       notify: false
     });
 
