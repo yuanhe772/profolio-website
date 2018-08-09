@@ -30,9 +30,7 @@ module.exports = gulp => {
     browserSync.init({
       server: {
         baseDir: '_site'
-      },
-      ghostMode: false,
-      notify: false
+      }
     });
 
     gulp.watch(scssPath, ['sass', browserSync.reload]);

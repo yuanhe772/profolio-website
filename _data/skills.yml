@@ -7,10 +7,10 @@ languages:
 
 tools:
   - item: Bash
-  - item: Git & Github
-  - item: WireShark & TCPdump
+  - item: Git
+  - item: TCPdump
   - item: Jenkins
-  - item: Pennetration Test with Kali
+  - item: Pennetration Test
 
 frontend:
   - item: jQuery
@@ -24,7 +24,8 @@ frontend:
 backend:
   - item: Elk Stack
   - item: MongoDB
-  - item: MemcacheD & Redis
+  - item: MemcacheD
+  - item: Redis
   - item: MySQL
   - item: Nagios
   - item: Maven
