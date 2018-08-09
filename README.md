@@ -1,5 +1,7 @@
 # Personal Website yuanhe.fun
 
+## Credit to bchiang7.github.io
+
 ## Dependencies
 
 - [Gulp](https://gulpjs.com/)
