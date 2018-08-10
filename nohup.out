@@ -24,3 +24,118 @@ Configuration file: _config_dev.yml
  UI External: http://172.31.28.135:3001
  --------------------------------------
 [Browsersync] Serving files from: _site
+
+> yuanhe.fun@0.0.0 start /home/ubuntu/profolio-website
+> gulp serve
+
+[23:57:12] Using gulpfile ~/profolio-website/gulpfile.js
+[23:57:12] Starting 'jekyll-dev'...
+Configuration file: _config.yml
+Configuration file: _config_dev.yml
+            Source: /home/ubuntu/profolio-website
+       Destination: /home/ubuntu/profolio-website/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.058 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+[23:57:13] Finished 'jekyll-dev' after 420 ms
+[23:57:13] Starting 'serve'...
+[23:57:13] Finished 'serve' after 51 ms
+[Browsersync] Access URLs:
+ --------------------------------------
+       Local: http://localhost:3002
+    External: http://172.31.28.135:3002
+ --------------------------------------
+          UI: http://localhost:3003
+ UI External: http://172.31.28.135:3003
+ --------------------------------------
+[Browsersync] Serving files from: _site
+
+> yuanhe.fun@0.0.0 start /home/ubuntu/profolio-website
+> gulp serve
+
+[00:03:57] Using gulpfile ~/profolio-website/gulpfile.js
+[00:03:57] Starting 'jekyll-dev'...
+Configuration file: _config.yml
+Configuration file: _config_dev.yml
+            Source: /home/ubuntu/profolio-website
+       Destination: /home/ubuntu/profolio-website/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.059 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+[00:03:57] Finished 'jekyll-dev' after 435 ms
+[00:03:57] Starting 'serve'...
+[00:03:57] Finished 'serve' after 49 ms
+[Browsersync] Access URLs:
+ --------------------------------------
+       Local: http://localhost:3000
+    External: http://172.31.28.135:3000
+ --------------------------------------
+          UI: http://localhost:3001
+ UI External: http://172.31.28.135:3001
+ --------------------------------------
+[Browsersync] Serving files from: _site
+
+> yuanhe.fun@0.0.0 start /home/ubuntu/profolio-website
+> gulp serve
+
+[00:04:17] Using gulpfile ~/profolio-website/gulpfile.js
+[00:04:17] Starting 'jekyll-dev'...
+Configuration file: _config.yml
+Configuration file: _config_dev.yml
+            Source: /home/ubuntu/profolio-website
+       Destination: /home/ubuntu/profolio-website/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.057 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+[00:04:18] Finished 'jekyll-dev' after 424 ms
+[00:04:18] Starting 'serve'...
+[00:04:18] Finished 'serve' after 51 ms
+[Browsersync] Access URLs:
+ --------------------------------------
+       Local: http://localhost:3000
+    External: http://172.31.28.135:3000
+ --------------------------------------
+          UI: http://localhost:3001
+ UI External: http://172.31.28.135:3001
+ --------------------------------------
+[Browsersync] Serving files from: _site
+Killed
+npm ERR! code ELIFECYCLE
+npm ERR! errno 137
+npm ERR! yuanhe.fun@0.0.0 start: `gulp serve`
+npm ERR! Exit status 137
+npm ERR! 
+npm ERR! Failed at the yuanhe.fun@0.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2018-08-10T00_04_42_905Z-debug.log
+
+> yuanhe.fun@0.0.0 start /home/ubuntu/profolio-website
+> gulp serve
+
+[00:05:19] Using gulpfile ~/profolio-website/gulpfile.js
+[00:05:19] Starting 'jekyll-dev'...
+Configuration file: _config.yml
+Configuration file: _config_dev.yml
+            Source: /home/ubuntu/profolio-website
+       Destination: /home/ubuntu/profolio-website/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.057 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+[00:05:20] Finished 'jekyll-dev' after 422 ms
+[00:05:20] Starting 'serve'...
+[00:05:20] Finished 'serve' after 50 ms
+[Browsersync] Access URLs:
+ --------------------------------------
+       Local: http://localhost:3000
+    External: http://172.31.28.135:3000
+ --------------------------------------
+          UI: http://localhost:3001
+ UI External: http://172.31.28.135:3001
+ --------------------------------------
+[Browsersync] Serving files from: _site
