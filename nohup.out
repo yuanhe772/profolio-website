@@ -139,3 +139,120 @@ Configuration file: _config_dev.yml
  UI External: http://172.31.28.135:3001
  --------------------------------------
 [Browsersync] Serving files from: _site
+
+> yuanhe.fun@0.0.0 start /home/ubuntu/profolio-website
+> gulp serve
+
+[18:38:20] Using gulpfile ~/profolio-website/gulpfile.js
+[18:38:20] Starting 'jekyll-dev'...
+Configuration file: _config.yml
+Configuration file: _config_dev.yml
+            Source: /home/ubuntu/profolio-website
+       Destination: /home/ubuntu/profolio-website/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.149 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+[18:38:21] Finished 'jekyll-dev' after 542 ms
+[18:38:21] Starting 'serve'...
+[18:38:21] Finished 'serve' after 52 ms
+[Browsersync] Access URLs:
+ --------------------------------------
+       Local: http://localhost:3000
+    External: http://172.31.28.135:3000
+ --------------------------------------
+          UI: http://localhost:3001
+ UI External: http://172.31.28.135:3001
+ --------------------------------------
+[Browsersync] Serving files from: _site
+[18:42:24] Starting 'jekyll-dev'...
+Configuration file: _config.yml
+Configuration file: _config_dev.yml
+            Source: /home/ubuntu/profolio-website
+       Destination: /home/ubuntu/profolio-website/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.06 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+[18:42:24] Finished 'jekyll-dev' after 425 ms
+[18:42:24] Starting 'jekyll-rebuild'...
+[18:42:24] Finished 'jekyll-rebuild' after 872 μs
+[Browsersync] Reloading Browsers...
+
+> yuanhe.fun@0.0.0 start /home/ubuntu/profolio-website
+> gulp serve
+
+[18:43:22] Using gulpfile ~/profolio-website/gulpfile.js
+[18:43:22] Starting 'jekyll-dev'...
+Configuration file: _config.yml
+Configuration file: _config_dev.yml
+            Source: /home/ubuntu/profolio-website
+       Destination: /home/ubuntu/profolio-website/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.063 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+[18:43:22] Finished 'jekyll-dev' after 433 ms
+[18:43:22] Starting 'serve'...
+[18:43:22] Finished 'serve' after 52 ms
+[Browsersync] Access URLs:
+ --------------------------------------
+       Local: http://localhost:3000
+    External: http://172.31.28.135:3000
+ --------------------------------------
+          UI: http://localhost:3001
+ UI External: http://172.31.28.135:3001
+ --------------------------------------
+[Browsersync] Serving files from: _site
+
+> yuanhe.fun@0.0.0 start /home/ubuntu/profolio-website
+> gulp serve
+
+[21:52:11] Using gulpfile ~/profolio-website/gulpfile.js
+[21:52:11] Starting 'jekyll-dev'...
+Configuration file: _config.yml
+Configuration file: _config_dev.yml
+            Source: /home/ubuntu/profolio-website
+       Destination: /home/ubuntu/profolio-website/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.06 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+[21:52:12] Finished 'jekyll-dev' after 431 ms
+[21:52:12] Starting 'serve'...
+[21:52:12] Finished 'serve' after 49 ms
+[Browsersync] Access URLs:
+ --------------------------------------
+       Local: http://localhost:3000
+    External: http://172.31.28.135:3000
+ --------------------------------------
+          UI: http://localhost:3001
+ UI External: http://172.31.28.135:3001
+ --------------------------------------
+[Browsersync] Serving files from: _site
+
+> yuanhe.fun@0.0.0 start /home/ubuntu/profolio-website
+> gulp serve
+
+[21:52:21] Using gulpfile ~/profolio-website/gulpfile.js
+[21:52:21] Starting 'jekyll-dev'...
+Configuration file: _config.yml
+Configuration file: _config_dev.yml
+            Source: /home/ubuntu/profolio-website
+       Destination: /home/ubuntu/profolio-website/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.06 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+[21:52:21] Finished 'jekyll-dev' after 427 ms
+[21:52:21] Starting 'serve'...
+[21:52:21] Finished 'serve' after 49 ms
+[Browsersync] Access URLs:
+ --------------------------------------
+       Local: http://localhost:3000
+    External: http://172.31.28.135:3000
+ --------------------------------------
+          UI: http://localhost:3001
+ UI External: http://172.31.28.135:3001
+ --------------------------------------
+[Browsersync] Serving files from: _site
