@@ -1,5 +1,5 @@
 # Personal Website yuanhe.fun
-Credit to bchiang7.github.io
+Credit to and forked from bchiang7.github.io
 
 ## Getting Started
 
