@@ -381,17 +381,3 @@ Configuration file: _config_dev.yml
        Destination: /home/ubuntu/profolio-website/_site
  Incremental build: disabled. Enable with --incremental
       Generating... 
-                    done in 0.061 seconds.
- Auto-regeneration: disabled. Use --watch to enable.
-[23:01:24] Finished 'jekyll-dev' after 426 ms
-[23:01:24] Starting 'serve'...
-[23:01:24] Finished 'serve' after 48 ms
-[Browsersync] Access URLs:
- --------------------------------------
-       Local: http://localhost:3000
-    External: http://172.31.28.135:3000
- --------------------------------------
-          UI: http://localhost:3001
- UI External: http://172.31.28.135:3001
- --------------------------------------
-[Browsersync] Serving files from: _site
