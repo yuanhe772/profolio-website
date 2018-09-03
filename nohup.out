@@ -395,3 +395,16 @@ Configuration file: _config_dev.yml
  UI External: http://172.31.28.135:3001
  --------------------------------------
 [Browsersync] Serving files from: _site
+[02:54:52] Starting 'jekyll-dev'...
+Configuration file: _config.yml
+Configuration file: _config_dev.yml
+            Source: /home/ubuntu/profolio-website
+       Destination: /home/ubuntu/profolio-website/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.215 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+[02:54:53] Finished 'jekyll-dev' after 959 ms
+[02:54:53] Starting 'jekyll-rebuild'...
+[02:54:53] Finished 'jekyll-rebuild' after 1.22 ms
+[Browsersync] Reloading Browsers...
